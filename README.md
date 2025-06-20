@@ -5,7 +5,7 @@
 ---
 [![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.gg/invite/elusiongg)
 
-[![R6 Cheat](https://github.com/r6sx-tools/r6-cheat/blob/main/5af4a9b7-ad5b-4ad5-a794-2e799add8a64.png)](https://discord.gg/invite/elusiongg) 
+[![R6 Cheat](https://github.com/r6sx-tools/r6-cheat/blob/main/5af4a9b7-ad5b-4ad5-a794-2e799add8a64.png)(https://discord.gg/invite/elusiongg) 
 
 ## 🏆 R6 Cheat – Rainbow Six Siege X Cheat Engine
 
