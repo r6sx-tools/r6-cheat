@@ -11,7 +11,7 @@
 
 **R6 Cheat** is a top-tier, undetected cheat toolkit for **Rainbow Six Siege X**. It offers tactical modules like **R6 Aimbot**, wall ESP, operator icons, drone targeting, and recoil control—all within a secure, stream-friendly interface.
 
-[![R6X Cheat](https://github.com/r6sx-tools/r6-cheat/blob/main/R6%20Cheats.png)]
+![R6X Cheat](https://github.com/r6sx-tools/r6-cheat/blob/main/R6%20Cheats.png)
 
 Whether you're playing ranked, casual, or custom, this Rainbow Six Siege X Cheat gives you a distinct, configurable advantage while remaining stealthy and efficient.
 
