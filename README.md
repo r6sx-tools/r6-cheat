@@ -3,9 +3,9 @@
 **R6 Cheat** is the ultimate undetected software solution for Rainbow Six Siege, offering a precise **R6 Aimbot**, tactical ESP features, and full streamproof support. Master every engagement with total control, customizable configs, and HWID spoofing.
 
 ---
-[![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.gg/invite/elusiongg)
+[![Join Our Discord](https://img.shields.io/discord/1180734837510897755?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.gg/SfkrK75HNj)
 
-[![R6 Cheat](https://github.com/r6sx-tools/r6-cheat/blob/main/5af4a9b7-ad5b-4ad5-a794-2e799add8a64.png)](https://discord.gg/invite/elusiongg)
+[![R6 Cheat](https://github.com/r6sx-tools/r6-cheat/blob/main/5af4a9b7-ad5b-4ad5-a794-2e799add8a64.png)](https://discord.gg/SfkrK75HNj)
 
 ## 🏆 R6 Cheat – Rainbow Six Siege X Cheat Engine
 
